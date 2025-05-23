@@ -51,7 +51,7 @@
 ### Windows
 ```powershell
 # 1. Clone repository
-git clone https://github.com/yourusername/edep.git
+git clone https://github.com/DavidPerezz99/edep.git
 cd edep/gui
 
 # 2. Install dependencies
