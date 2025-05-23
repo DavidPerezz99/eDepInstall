@@ -47,6 +47,8 @@
 | Disk Space      | 2GB+ available           |
 
 ## Installation for Devs 🛠️
+### Install Docker
+Please visit [Docker Hub](https://docs.docker.com/engine/install/) and install Docker Engine. Ignore this step if you already have either Docker Engine or Docker Desktop installed.
 
 ### Windows
 ```powershell
