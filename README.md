@@ -54,7 +54,7 @@ npm run dist:win
 
 # 4. Run installer
 ./installer/windows/edep Setup 1.0.0.exe 
-
+```
 
 ### Linux (Debian/Ubuntu)
 
@@ -71,7 +71,7 @@ npm run dist:linux
 
 # 3. Install DEB package
 sudo dpkg -i installer/linux/edep_1.0.0_amd64.deb
-```
+
 
 ## Project Structure 📂
 ```
