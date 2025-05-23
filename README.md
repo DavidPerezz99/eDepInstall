@@ -1,6 +1,6 @@
 # eDep - ML Deployment Platform
 
-![eDep Architecture](docs/architecture.png)  
+![eDep Architecture](https://github.com/DavidPerezz99/eDepInstall/blob/main/logo_1.png)  
 *Unified platform for deploying and managing machine learning services*
 
 ## Table of Contents
