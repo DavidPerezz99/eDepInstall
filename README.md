@@ -57,7 +57,7 @@ npm run dist:win
 ```
 
 ### Linux (Debian/Ubuntu)
-
+```
 # 1. Install system dependencies
 sudo apt update && sudo apt install -y \
     build-essential \
@@ -71,7 +71,7 @@ npm run dist:linux
 
 # 3. Install DEB package
 sudo dpkg -i installer/linux/edep_1.0.0_amd64.deb
-
+```
 
 ## Project Structure 📂
 ```
