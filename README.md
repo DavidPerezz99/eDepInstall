@@ -74,7 +74,7 @@ sudo dpkg -i installer/linux/edep_1.0.0_amd64.deb
 ```
 
 ## Project Structure 📂
-
+```
 edep/
 ├── app/                   # Backend Services
 │   ├── main.py            # FastAPI entrypoint
@@ -90,7 +90,7 @@ edep/
 ├── installer/             # Platform-specific builds
 ├── docs/                  # Documentation
 └── docker_builds/         # Generated Dockerfiles
-
+```
 
 This README includes:
 1. Clear installation instructions for all platforms
