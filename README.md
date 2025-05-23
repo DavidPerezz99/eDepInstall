@@ -44,7 +44,7 @@
 | Python(Incuded)         | 3.11+                    |
 | Docker          | 24.0.2+                  |
 | RAM             | 8GB minimum              |
-| Disk Space      | 2GB+ available           |
+| Disk Space      | 5GB+ available           |
 
 ## Installation for Devs 🛠️
 ### Install Docker
