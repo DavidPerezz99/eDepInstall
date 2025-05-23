@@ -93,7 +93,7 @@ Default installation locations for each platform:
 
 ### Windows
 1. **Download Installer**  
-   Get the latest `edep Setup X.X.X.exe` from [Releases](https://github.com/yourusername/edep/releases)
+   Get the latest `edep Setup X.X.X.exe` from [Releases](https://github.com/DavidPerezz99/eDepInstall/blob/main/win)
 
 2. **Run Installer**  
    ```powershell
