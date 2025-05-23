@@ -40,8 +40,8 @@
 | Component       | Requirement              |
 |-----------------|--------------------------|
 | OS              | Windows 10+/Ubuntu 20.04+/macOS 12+ |
-| Node.js         | v18.x LTS                |
-| Python          | 3.11+                    |
+| Node.js(Included)         | v18.x LTS                |
+| Python(Incuded)         | 3.11+                    |
 | Docker          | 24.0.2+                  |
 | RAM             | 8GB minimum              |
 | Disk Space      | 2GB+ available           |
