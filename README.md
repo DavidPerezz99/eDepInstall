@@ -92,7 +92,8 @@ Default installation locations for each platform:
 | macOS    | `/Applications/edep.app` | `~/Library/Application Support/edep` |
 
 ## Installer Instructions 🛠️
-
+### Install Docker
+Please visit [Docker Hub](https://docs.docker.com/engine/install/) and install Docker Engine. Ignore this step if you already have either Docker Engine or Docker Desktop installed.
 ### Windows
 1. **Download Installer**  
    Get the latest `edep Setup X.X.X.exe` from [Releases](https://github.com/DavidPerezz99/eDepInstall/blob/main/win)
